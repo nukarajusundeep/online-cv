@@ -48,7 +48,7 @@ experiences:
           -
           - Bullet point
     - role: Sr. DevOps Engineer
-      time: 2017 Feb - 2019 April
+      time: 2016 June - 2019 April
       company: StubHub Inc., San Francisco
       details: |
         StubHub is a San Francisco-based ticket exchange and resale company.
@@ -59,8 +59,19 @@ experiences:
           - Bullet point
           - Bullet point
     - role: DevOps Engineer
-      time: 2012 - 2014
-      company: OpenSoft Inc., Santa Clara, CA
+      time: 2014 July - 2016 May
+      company: Intel Corporation, Santa Clara, CA
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: DevOps Engineer
+      time: 2014 July - 2016 May
+      company: Intel Corporation, Santa Clara, CA
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -97,7 +108,7 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Certifications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
