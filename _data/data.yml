@@ -42,7 +42,7 @@ education:
 #          - Bullet point
 experiences:
     - role: Sr. FullStack DevOps Engineer
-      time: 2015 - Present
+      time: 2019 April - TillDate
       company: StubHub Inc., San Francisco
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -57,7 +57,7 @@ experiences:
           - Bullet point
           - Bullet point
     - role: Sr. DevOps Engineer
-      time: 2014 - 2015
+      time: 2017 Feb - 2019 April
       company: StubHub Inc., San Francisco
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -69,7 +69,7 @@ experiences:
           - Bullet point
     - role: DevOps Engineer
       time: 2012 - 2014
-      company: Yahoo Inc., Santa Clara, CA
+      company: OpenSoft Inc., Santa Clara, CA
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
