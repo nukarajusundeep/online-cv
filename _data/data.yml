@@ -45,26 +45,17 @@ experiences:
       time: 2019 April - TillDate
       company: StubHub Inc., San Francisco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
+          -
           - Bullet point
     - role: Sr. DevOps Engineer
       time: 2017 Feb - 2019 April
       company: StubHub Inc., San Francisco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        StubHub is a San Francisco-based ticket exchange and resale company.
+        It provides services for buyers and sellers of tickets for sports,
+        concerts, theater and other live entertainment events.
+        They are similar to pawn brokers for sporting events.
+        It has grown from the largest secondary-market ticket marketplace in the United States into the world's largest ticket marketplace
           - Bullet point
           - Bullet point
     - role: DevOps Engineer
