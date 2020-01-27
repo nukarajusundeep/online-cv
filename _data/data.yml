@@ -124,9 +124,6 @@ experiences:
 projects:
     title: Expertise
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: "Cloud Platform expertise: GCP, PCF"
         link: "#"
