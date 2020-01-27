@@ -93,7 +93,7 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Summary
+    title: Expertise
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -125,14 +125,69 @@ projects:
           - Build custom slack bot to perform all CI-CD actions from slack with Django app serving as Backend
           - Automate Infrastructure access as a self service for developers with custom slack where developers can get access through slack and the RBAC is handled behind the scenes
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+      - title: "Container expertise: Docker, Docker Swarm"
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: |
+          - Build Docker based local development application for developers using Bash scripts and docker images, where devs can spin up their production footprint docker container  on their local and test their application
+          - Build docker based selenium Grid platform for local UI testing
+          - Build concourse resources[docker images]  library to perform release actions in the CI-CD concourse pipelines
 
+      - title: "CI-CD Expertise"
+        link: "#"
+        tagline: |
+          - Expert in Jenkins, Concourse, Harness to Build Pipelines which automates from  code commit to market
+
+      - title: "Version Control: GitHub, Perforce"
+        link: "#"
+        tagline: |
+          - Technical leader to align processes and tools, such as branching, source control structure, dependency management, Linux\Windows hybrid build infrastructure, code review, and check-in policies, that are developed and instrumented by DevOps teams across projects globally
+
+      - title: "Repository Management: Nexus, Artifactory"
+        link: "#"
+        tagline: |
+          - Expertise in configuring Nexus and Artifactory as a repository management for all kinds of projects [Maven, Gradle, Python, Go, Node]
+          - Security, Compliance and Governance: Seeker, Sonar, NexusIQ, Jfrog Xray
+          - Configure and Integrate the tools with release process for FOSS management and code coverage
+          - Generate yearly Audit reports for FOSS management and Security violations using REST API and Python
+
+      - title: "Project Management: Jira, Confluence, Bugzilla"
+        link: "#"
+        tagline: |
+          - Expert in handling all the sprint activities tracked using automation
+          - Integrate Jira story lifecycle with CI-CD to measure [Lead time for Changes]
+
+      - title: "Logging & Monitoring: Splunk, AppDynamics, Prometheus, Grafana, Stack Driver"
+        link: "#"
+        tagline: |
+          - Expert in configuration of the above tools and create Dashboard to monitor Deployment frequency, Time to restore service, Change failure rate metrics
+
+      - title: "Database: mySQL, Postgres"
+        link: "#"
+        tagline: |
+          - Configured mySQL database for the CI initializr application which is used by Django app through REST API
+          - Configured Postgres DB for Artifactory [Repository Management] and Concourse CI cluster
+
+      - title: "Testing: WHLK, WHCK, Selenium"
+        link: "#"
+        tagline: |
+          - Performed Windows Hardware certification for Intel Modems
+          - Developed UI tests using Selenium TestNG framework
+
+      - title: "Linux Admin"
+        link: "#"
+        tagline: |
+          - Handle end-to-end onPrem CentOS VMs
+
+      - title: "Support"
+        link: "#"
+        tagline: |
+          - Kafka Messaging issues, Activemq messaging queues, Mulesoft deployment issues, QA, STG and PROD environment issues, Jenkins-Concourse-harness pipelines, GCP native app deployment issues, PCF deployment issues, Infrastructure issues, Production Release management, Site reliability issues
+
+      - title: "Skillful"
+        link: "#"
+        tagline: |
+          - AWS, Go, Java
 publications:
     title: Certifications
     intro: |
