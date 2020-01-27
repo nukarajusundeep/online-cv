@@ -59,6 +59,7 @@ experiences:
       time: 2016 June - 2019 April
       company: StubHub Inc., San Francisco
       details: |
+        Tasks Performed
           - Identify process gaps and automate any manual steps in the CI-CD cycle and administrate supporting underlying tools
           - Build a Kubernetes cluster on On-Prem servers and deploy Selenium Grid for scalable UI testing
           - Built custom Slack bot (RTM bot) which integrates several releases operations
