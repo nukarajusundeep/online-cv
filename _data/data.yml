@@ -20,9 +20,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Experienced DevOps engineer understands the melding of operations and development to quickly deliver code to customers.
-      Hands-on experience supporting, automating, optimizing mission critical deployments leveraging configuration management
-      and DevOps core values IaC[Infrastructure as code], CI[Continuous Integration], CD[Continuous Delivery]
+        Experienced DevOps engineer understands the melding of operations and development to quickly deliver code to customers.
+        Hands-on experience supporting, automating, optimizing mission critical deployments leveraging configuration management
+        and DevOps core values IaC[Infrastructure as code], CI[Continuous Integration], CD[Continuous Delivery]
 education:
     - degree: Masters in Engineering Management
       university: International Technological University, SanJose, CA
@@ -74,18 +74,15 @@ experiences:
       time: 2014 July - 2016 May
       company: Intel Corporation, Santa Clara, CA
       details: |
+        Tasks Performed
+        - Building deploying, monitoring and supporting API-driven bare-metal and Kubernetes clusters.
+        - Build and configure infrastructure as a code pipelines. Automation in Python, including deployment with Ansible, Terraform.
+        - Build CI-CD for the Intel modem firmware releases.
+        - Windows hardware certification on 7120 Intel modem for Microsoft Surface Pro 3 release
+        - Build and configure windows servers to execute WHCK [Windows hardware certification Kit] for Intel modems.
+        - Build and Deploy the BIOS[Basic Input and Output System] on windows machines to test Intel Modems
 
-          - Identify process gaps and automate any manual steps in the CI-CD cycle and administrate supporting underlying tools
-          - Build a Kubernetes cluster on On-Prem servers and deploy Selenium Grid for scalable UI testing
-          - Built custom Slack bot (RTM bot) which integrates several releases operations
-          - Configured Jira workflow and integrate the workflow with the CI-CD process to achieve the Lead Time metric
-          - Build a container-based local development environment for Developers which is one of the key ways to achieve shift left approach
-          - Auto Provisioning environments at regular intervals to maintain stability
-          - Build and release Java Certs for the applications
-          - Monitor site stability and performance and troubleshoot platform issues
-
-        - Bullet point
-    - role: DevOps Engineer
+    - role: Sr. Software Engineer - DevOps
       time: 2014 July - 2016 May
       company: Intel Corporation, Santa Clara, CA
       details: |
