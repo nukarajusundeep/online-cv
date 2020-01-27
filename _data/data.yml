@@ -27,11 +27,11 @@ career-profile:
 education:
     - degree: Masters in Engineering Management
       university: International Technological University, SanJose, CA
-      time: 2011 - 2012
+      time:
 
     - degree: Bachelors in Electrical and Electronics Engineering
       university: JNTU Hyderabad, India
-      time: 2007 - 2011
+      time:
 #      details: |
 #        Describe your study here lorem ipsum dolor sit amet, consectetuer
 #        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
