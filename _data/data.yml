@@ -56,7 +56,7 @@ experiences:
         - Containerizing (Docker) and Orchestrating (PCF) application and ensure all applications follow 12 factors notation
         - Build next generation CI-CD (Continuous Integration - Continuous Deployment) pipelines for cloud-based apps to scale and improve
         developer productivity
-    - role: Sr. DevOps Engineer
+    - role: Sr. Software Engineer - DevOps
       time: 2016 June - 2019 April
       company: StubHub Inc., San Francisco
       details: |
@@ -70,7 +70,7 @@ experiences:
         - Build and release Java Certs for the applications
         - Monitor site stability and performance and troubleshoot platform issues
 
-    - role: DevOps Engineer
+    - role: Sr. Software Engineer - DevOps
       time: 2014 July - 2016 May
       company: Intel Corporation, Santa Clara, CA
       details: |
@@ -81,7 +81,7 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: DevOps Engineer
+    - role: Software Engineer - DevOps
       time: 2014 July - 2016 May
       company: Intel Corporation, Santa Clara, CA
       details: |
@@ -93,7 +93,7 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
+    title: Profile
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
