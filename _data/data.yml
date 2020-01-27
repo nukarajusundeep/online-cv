@@ -74,24 +74,47 @@ experiences:
       time: 2014 July - 2016 May
       company: Intel Corporation, Santa Clara, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Tasks Performed
+        - Building deploying, monitoring and supporting API-driven bare-metal and Kubernetes clusters.
+        - Build and configure infrastructure as a code pipelines. Automation in Python, including deployment with Ansible, Terraform.
+        - Build CI-CD for the Intel modem firmware releases.
+        - Windows hardware certification on 7120 Intel modem for Microsoft Surface Pro 3 release
+        - Build and configure windows servers to execute WHCK [Windows hardware certification Kit] for Intel modems.
+        - Build and Deploy the BIOS[Basic Input and Output System] on windows machines to test Intel Modems
+
     - role: Software Engineer - DevOps
-      time: 2014 July - 2016 May
-      company: Intel Corporation, Santa Clara, CA
+      time: 2012 July - 2014 May
+      company: Intel Mobile Communications, Allentown, PA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Tasks Performed
+        - Installing Firmware Upgrades, kernel patches, system configuration, performance tuning on Unix/Linux systems
+        - Adapted existing Selenium Automation framework to automate the Share drive functionality.
+        - Defined, developed, and executed automation test scripts using Selenium WebDriver to perform functional testing.
+        - Hooked up Automated Smokes &amp; P1 tests to run on Jenkins on a daily basis.
+        - Built and Deployed java source code into application servers in an agile continuous integration environment.
+        - Performed GUI testing, Functional testing, Integration testing, Regression testing, Web services Testing, Negative testing, End to End testing, User
+        - Acceptance testing (UAT) on multiple projects.
+        - Resolved the build and deployment related bottlenecks with the development team.
+        - Conducting cellular modem testing for GSM/GPRS/3G/LTE technologies on Intel modem platforms.
+        - Performance and functional testing including IMS, Carrier Aggregation, M2M, SIM/UICC, OMA DM &amp; GPS and GNSS testing for carrier (AT&T,Verizon) certification
+        - Designed the project workflows/pipelines using Jenkins as CI tool
+        - Working on build Systems such as Make, Maven
+
+    - role: Automation Engineer
+      time: 2012 July - 2014 May
+      company: Chargewave Energy Kem Pvt.Ltd
+      details: |
+        Tasks Performed
+        - Adapted the existing Data Driven Automation Framework to automate the application functionality using QTP 9.5
+        - Participated in KT sessions with manual team, studying and analyzing the Manual Test Cases to prepare the Regression Suite
+        - Developing Object Repositories, Functional Libraries, Reusable Actions, Data tables and Recovery Scenarios
+        - Worked on Descriptive Programming to handle the dynamic objects in the application
+        - Extensively worked on developing, reviewing and execution of Scripts on various builds to validate the functionality of the application
+        - Validation of reports generated in excel sheet and data comparison using QTP scripts
+        - Back calculate the boiler efficiency and suggest efficient configuration
+        - Capture and calibrate the reading with charge wave energy fuel efficient product
+        ```*Environment:* Windows PowerShell, QTP 9.5, MS excel, Boiler Hardware equipment```
+
 projects:
     title: Expertise
     intro: >
