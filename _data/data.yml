@@ -101,24 +101,31 @@ experiences:
       time: 2016 June - 2019 April
       company: StubHub Inc., San Francisco
       details: |
-        StubHub is a San Francisco-based ticket exchange and resale company.
-        It provides services for buyers and sellers of tickets for sports,
-        concerts, theater and other live entertainment events.
-        They are similar to pawn brokers for sporting events.
-        It has grown from the largest secondary-market ticket marketplace in the United States into the world's largest ticket marketplace
-          - Bullet point
-          - Bullet point
+          - Identify process gaps and automate any manual steps in the CI-CD cycle and administrate supporting underlying tools
+          - Build a Kubernetes cluster on On-Prem servers and deploy Selenium Grid for scalable UI testing
+          - Built custom Slack bot (RTM bot) which integrates several releases operations
+          - Configured Jira workflow and integrate the workflow with the CI-CD process to achieve the Lead Time metric
+          - Build a container-based local development environment for Developers which is one of the key ways to achieve shift left approach
+          - Auto Provisioning environments at regular intervals to maintain stability
+          - Build and release Java Certs for the applications
+          - Monitor site stability and performance and troubleshoot platform issues
+        Environment: Python, Bash, Django, PCF, Kubernetes on bare metal, Docker, Nexus, Nexus IQ, Splunk, Seeker, Jacoco, SonaQube, Jenkins, Jira, CentOS, Ubuntu, Grafana, Prometheus, Postgres, mySQL, CF-cli, fly-cli, Selenium grid, Sauce Labs, GitHub, Perforce
+
     - role: DevOps Engineer
       time: 2014 July - 2016 May
       company: Intel Corporation, Santa Clara, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
+          - Identify process gaps and automate any manual steps in the CI-CD cycle and administrate supporting underlying tools
+          - Build a Kubernetes cluster on On-Prem servers and deploy Selenium Grid for scalable UI testing
+          - Built custom Slack bot (RTM bot) which integrates several releases operations
+          - Configured Jira workflow and integrate the workflow with the CI-CD process to achieve the Lead Time metric
+          - Build a container-based local development environment for Developers which is one of the key ways to achieve shift left approach
+          - Auto Provisioning environments at regular intervals to maintain stability
+          - Build and release Java Certs for the applications
+          - Monitor site stability and performance and troubleshoot platform issues
+
+        - Bullet point
     - role: DevOps Engineer
       time: 2014 July - 2016 May
       company: Intel Corporation, Santa Clara, CA
