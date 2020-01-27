@@ -21,6 +21,7 @@ career-profile:
     title: Career Profile
     summary: |
       Experienced DevOps engineer understands the melding of operations and development to quickly deliver code to customers. Hands-on experience supporting, automating, optimizing mission critical deployments leveraging configuration management and DevOps core values IaC[Infrastructure as code], CI[Continuous Integration], CD[Continuous Delivery]
+    details: |
       Cloud Platform expertise: GCP, PCF
       - Host infrastructure [PCF, Concourse cluster, Artifactory, SonarQube] on GCP as, Infrastructure as a code using terraform and concourse pipelines
       - Creating projects, assigning roles, Enabling APIs, Provision Stack driver accounts [on GCP]
