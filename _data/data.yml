@@ -40,6 +40,47 @@ education:
 #        pretium quis, sem.
 #          - Bullet point
 #          - Bullet point
+projects:
+    title: Summary
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: "Cloud Platform expertise: GCP, PCF"
+        link: "#"
+        tagline: |
+          - Host infrastructure [PCF, Concourse cluster, Artifactory, SonarQube] on GCP as, Infrastructure as a code using terraform and concourse pipelines
+          - Creating projects, assigning roles, Enabling APIs, Provision Stack driver accounts [on GCP]
+          - Create and manage Compute engine instances, SSH, Images and Snapshots, SDK configurations[on GCP]
+          - Expert in building Kubernetes bare-metal on-Prem and GKE clusters on GCP
+          - Support application deployment issues on PCF at various levels of release process
+          - IAM Policies, Users, Groups, Access Keys and Compliance configuration for GC
+
+
+      - title: "Configuration Management: Ansible, Puppet"
+        link: "#"
+        tagline: |
+          - Rebase QA environments with production artifacts for the developer to test their applications against latest artifacts using Ansible scripts and Jenkins
+          - Configure Jenkins master and slaves using Ansible scripts
+          - Deploy all the Environment configuration using Puppet using Infrastructure as code
+          - Automate Mulesoft deployments using Ansible and Python scripts
+
+      - title: "Web Frameworks: Django, React JS"
+        link: "#"
+        tagline: |
+          - Build CI initializr app with Django as backend for pipeline source code and Used React JS javascript library to build the user interface allowing developers to input their parameters and build their CI-CD pipelines with few clicks for Concourse
+          - Build custom slack bot to perform all CI-CD actions from slack with Django app serving as Backend
+          - Automate Infrastructure access as a self service for developers with custom slack where developers can get access through slack and the RBAC is handled behind the scenes
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 experiences:
     - role: Software Engineer 3 - DevOps Engineer
       time: 2019 April - TillDate
@@ -92,46 +133,6 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-projects:
-    title: Summary
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: "Cloud Platform expertise: GCP, PCF"
-        link: "#"
-        tagline: |
-          - Host infrastructure [PCF, Concourse cluster, Artifactory, SonarQube] on GCP as, Infrastructure as a code using terraform and concourse pipelines
-          - Creating projects, assigning roles, Enabling APIs, Provision Stack driver accounts [on GCP]
-          - Create and manage Compute engine instances, SSH, Images and Snapshots, SDK configurations[on GCP]
-          - Expert in building Kubernetes bare-metal on-Prem and GKE clusters on GCP
-          - Support application deployment issues on PCF at various levels of release process
-          - IAM Policies, Users, Groups, Access Keys and Compliance configuration for GC
-
-
-      - title: "Configuration Management: Ansible, Puppet"
-        link: "#"
-        tagline: |
-          - Rebase QA environments with production artifacts for the developer to test their applications against latest artifacts using Ansible scripts and Jenkins
-          - Configure Jenkins master and slaves using Ansible scripts
-          - Deploy all the Environment configuration using Puppet using Infrastructure as code
-          - Automate Mulesoft deployments using Ansible and Python scripts
-
-      - title: "Web Frameworks: Django, React JS"
-        link: "#"
-        tagline: |
-          - Build CI initializr app with Django as backend for pipeline source code and Used React JS javascript library to build the user interface allowing developers to input their parameters and build their CI-CD pipelines with few clicks for Concourse
-          - Build custom slack bot to perform all CI-CD actions from slack with Django app serving as Backend
-          - Automate Infrastructure access as a self service for developers with custom slack where developers can get access through slack and the RBAC is handled behind the scenes
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Certifications
