@@ -21,50 +21,49 @@ career-profile:
     title: Career Profile
     summary: |
       Experienced DevOps engineer understands the melding of operations and development to quickly deliver code to customers. Hands-on experience supporting, automating, optimizing mission critical deployments leveraging configuration management and DevOps core values IaC[Infrastructure as code], CI[Continuous Integration], CD[Continuous Delivery]
-    details: |
-      Cloud Platform expertise: GCP, PCF
-      - Host infrastructure [PCF, Concourse cluster, Artifactory, SonarQube] on GCP as, Infrastructure as a code using terraform and concourse pipelines
-      - Creating projects, assigning roles, Enabling APIs, Provision Stack driver accounts [on GCP]
-      - Create and manage Compute engine instances, SSH, Images and Snapshots, SDK configurations[on GCP]
-      - Expert in building Kubernetes bare-metal on-Prem and GKE clusters on GCP
-      - Support application deployment issues on PCF at various levels of release process
-      - IAM Policies, Users, Groups, Access Keys and Compliance configuration for GCP
-      Configuration Management: Ansible, Puppet
-      - Rebase QA environments with production artifacts for the developer to test their applications against latest artifacts using Ansible scripts and Jenkins
-      - Configure Jenkins master and slaves using Ansible scripts
-      - Deploy all the Environment configuration using Puppet using Infrastructure as code
-      - Automate Mulesoft deployments using Ansible and Python scripts
-      Web Frameworks: Django, React JS
-      - Build CI initializr app with Django as backend for pipeline source code and Used React JS javascript library to build the user interface allowing developers to input their parameters and build their CI-CD pipelines with few clicks for Concourse
-      - Build custom slack bot to perform all CI-CD actions from slack with Django app serving as Backend
-      - Automate Infrastructure access as a self service for developers with custom slack where developers can get access through slack and the RBAC is handled behind the scenes
-      Container expertise: Docker, Docker Swarm
-      - Build Docker based local development application for developers using Bash scripts and docker images, where devs can spin up their production footprint docker container  on their local and test their application
-      - Build docker based selenium Grid platform for local UI testing
-      - Build concourse resources[docker images]  library to perform release actions in the CI-CD concourse pipelines
-      CI-CD Expertise : Expert in Jenkins, Concourse, Harness to Build Pipelines which automates from  code commit to market
-      Version Control: GitHub, Perforce
-      - Technical leader to align processes and tools, such as branching, source control structure, dependency management, Linux\Windows hybrid build infrastructure, code review, and check-in policies, that are developed and instrumented by DevOps teams across projects globally
-      Repository Management: Nexus, Artifactory
-      - Expertise in configuring Nexus and Artifactory as a repository management for all kinds of projects [Maven, Gradle, Python, Go, Node]
-      Security, Compliance and Governance: Seeker, Sonar, NexusIQ, Jfrog Xray
-      - Configure and Integrate the tools with release process for FOSS management and code coverage
-      - Generate yearly Audit reports for FOSS management and Security violations using REST API and Python
-      Project Management: Jira, Confluence, Bugzilla
-      - Expert in handling all the sprint activities tracked using automation
-      - Integrate Jira story lifecycle with CI-CD to measure [Lead time for Changes]
-      Logging & Monitoring: Splunk, AppDynamics, Prometheus, Grafana, Stack Driver
-      - Expert in configuration of the above tools and create Dashboard to monitor Deployment frequency, Time to restore service, Change failure rate metrics
-      Database: mySQL, Postgres
-      - Configured mySQL database for the CI initializr application which is used by Django app through REST API
-      - Configured Postgres DB for Artifactory [Repository Management] and Concourse CI cluster
-      Testing: WHLK, WHCK, Selenium
-      - Performed Windows Hardware certification for Intel Modems
-      - Developed UI tests using Selenium TestNG framework
-      Linux Admin: Handle end-to-end onPrem CentOS VMs
-      Support:
-      - Kafka Messaging issues, Activemq messaging queues, Mulesoft deployment issues, QA, STG and PROD environment issues, Jenkins-Concourse-harness pipelines, GCP native app deployment issues, PCF deployment issues, Infrastructure issues, Production Release management, Site reliability issues
-      Skillful: AWS, Go, Java
+          Cloud Platform expertise: GCP, PCF
+            - Host infrastructure [PCF, Concourse cluster, Artifactory, SonarQube] on GCP as, Infrastructure as a code using terraform and concourse pipelines
+            - Creating projects, assigning roles, Enabling APIs, Provision Stack driver accounts [on GCP]
+            - Create and manage Compute engine instances, SSH, Images and Snapshots, SDK configurations[on GCP]
+            - Expert in building Kubernetes bare-metal on-Prem and GKE clusters on GCP
+            - Support application deployment issues on PCF at various levels of release process
+            - IAM Policies, Users, Groups, Access Keys and Compliance configuration for GCP
+            Configuration Management: Ansible, Puppet
+            - Rebase QA environments with production artifacts for the developer to test their applications against latest artifacts using Ansible scripts and Jenkins
+            - Configure Jenkins master and slaves using Ansible scripts
+            - Deploy all the Environment configuration using Puppet using Infrastructure as code
+            - Automate Mulesoft deployments using Ansible and Python scripts
+            Web Frameworks: Django, React JS
+            - Build CI initializr app with Django as backend for pipeline source code and Used React JS javascript library to build the user interface allowing developers to input their parameters and build their CI-CD pipelines with few clicks for Concourse
+            - Build custom slack bot to perform all CI-CD actions from slack with Django app serving as Backend
+            - Automate Infrastructure access as a self service for developers with custom slack where developers can get access through slack and the RBAC is handled behind the scenes
+            Container expertise: Docker, Docker Swarm
+            - Build Docker based local development application for developers using Bash scripts and docker images, where devs can spin up their production footprint docker container  on their local and test their application
+            - Build docker based selenium Grid platform for local UI testing
+            - Build concourse resources[docker images]  library to perform release actions in the CI-CD concourse pipelines
+            CI-CD Expertise : Expert in Jenkins, Concourse, Harness to Build Pipelines which automates from  code commit to market
+            Version Control: GitHub, Perforce
+            - Technical leader to align processes and tools, such as branching, source control structure, dependency management, Linux\Windows hybrid build infrastructure, code review, and check-in policies, that are developed and instrumented by DevOps teams across projects globally
+            Repository Management: Nexus, Artifactory
+            - Expertise in configuring Nexus and Artifactory as a repository management for all kinds of projects [Maven, Gradle, Python, Go, Node]
+            Security, Compliance and Governance: Seeker, Sonar, NexusIQ, Jfrog Xray
+            - Configure and Integrate the tools with release process for FOSS management and code coverage
+            - Generate yearly Audit reports for FOSS management and Security violations using REST API and Python
+            Project Management: Jira, Confluence, Bugzilla
+            - Expert in handling all the sprint activities tracked using automation
+            - Integrate Jira story lifecycle with CI-CD to measure [Lead time for Changes]
+            Logging & Monitoring: Splunk, AppDynamics, Prometheus, Grafana, Stack Driver
+            - Expert in configuration of the above tools and create Dashboard to monitor Deployment frequency, Time to restore service, Change failure rate metrics
+            Database: mySQL, Postgres
+            - Configured mySQL database for the CI initializr application which is used by Django app through REST API
+            - Configured Postgres DB for Artifactory [Repository Management] and Concourse CI cluster
+            Testing: WHLK, WHCK, Selenium
+            - Performed Windows Hardware certification for Intel Modems
+            - Developed UI tests using Selenium TestNG framework
+            Linux Admin: Handle end-to-end onPrem CentOS VMs
+            Support:
+            - Kafka Messaging issues, Activemq messaging queues, Mulesoft deployment issues, QA, STG and PROD environment issues, Jenkins-Concourse-harness pipelines, GCP native app deployment issues, PCF deployment issues, Infrastructure issues, Production Release management, Site reliability issues
+            Skillful: AWS, Go, Java
 education:
     - degree: Masters in Engineering Management
       university: International Technological University, SanJose, CA
