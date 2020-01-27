@@ -93,15 +93,21 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Profile
+    title: Summary
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: "Cloud Platform expertise: GCP, PCF"
+        tagline: |
+          - Host infrastructure [PCF, Concourse cluster, Artifactory, SonarQube] on GCP as, Infrastructure as a code using terraform and concourse pipelines
+          - Creating projects, assigning roles, Enabling APIs, Provision Stack driver accounts [on GCP]
+          - Create and manage Compute engine instances, SSH, Images and Snapshots, SDK configurations[on GCP]
+          - Expert in building Kubernetes bare-metal on-Prem and GKE clusters on GCP
+          - Support application deployment issues on PCF at various levels of release process
+          - IAM Policies, Users, Groups, Access Keys and Compliance configuration for GC
+
 
       - title: DevStudio
         link: "#"
