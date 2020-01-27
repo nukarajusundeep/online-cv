@@ -55,6 +55,7 @@ experiences:
         - Enhance the organization security protocols to mitigate risk to the site
         - Containerizing (Docker) and Orchestrating (PCF) application and ensure all applications follow 12 factors notation
         - Build next generation CI-CD (Continuous Integration - Continuous Deployment) pipelines for cloud-based apps to scale and improve developer productivity
+
         **Environment:** Python, Bash, Django, React js, SonarQube, Concourse, PCF, GCP, GKE, Docker, Artifactory, Jfrog Xray, Splunk, Stack Driver, Harness, Jenkins, Jira, CentOS, Ubuntu, Grafana, Prometheus, Postgres, mySQL, CF-cli, fly-cli, Confluence, Sauce labs, GitHub
     - role: Sr. Software Engineer - DevOps
       time: 2016 June - 2019 April
@@ -69,6 +70,7 @@ experiences:
         - Auto Provisioning environments at regular intervals to maintain stability
         - Build and release Java Certs for the applications
         - Monitor site stability and performance and troubleshoot platform issues
+
         **Environment:** Python, Bash, Django, PCF, Kubernetes on bare metal, Docker, Nexus, Nexus IQ, Splunk, Seeker, Jacoco, SonaQube, Jenkins, Jira, CentOS, Ubuntu, Grafana, Prometheus, Postgres, mySQL, CF-cli, fly-cli, Selenium grid, Sauce Labs, GitHub, Perforce
     - role: Sr. Software Engineer - DevOps
       time: 2014 July - 2016 May
@@ -81,6 +83,7 @@ experiences:
         - Windows hardware certification on 7120 Intel modem for Microsoft Surface Pro 3 release
         - Build and configure windows servers to execute WHCK [Windows hardware certification Kit] for Intel modems.
         - Build and Deploy the BIOS[Basic Input and Output System] on windows machines to test Intel Modems
+
         **Environment:** Python, Bash, Kubernetes, Docker, SonaQube, Jenkins, CentOS, Ubuntu, Controlled Live Automation, Wireshark, Agilent-8960, Spirent, BugZilla,  ACS Network testing framework, System trace tool, Rohde & Schwarz, WHCK(Windows8), WHLK(Windows 10)
     - role: Software Engineer - DevOps
       time: 2012 July - 2014 May
@@ -99,6 +102,7 @@ experiences:
         - Performance and functional testing including IMS, Carrier Aggregation, M2M, SIM/UICC, OMA DM &amp; GPS and GNSS testing for carrier (AT&T,Verizon) certification
         - Designed the project workflows/pipelines using Jenkins as CI tool
         - Working on build Systems such as Make, Maven
+
         **Environment:** Windows PowerShell, Embedded C, Jenkins, Wireshark, Agilent-8960, Spirent, BugZilla, System trace tool, Rohde & Schwarz, AT&T ADAPT Test Suite
 
     - role: Automation Engineer
@@ -114,6 +118,7 @@ experiences:
         - Validation of reports generated in excel sheet and data comparison using QTP scripts
         - Back calculate the boiler efficiency and suggest efficient configuration
         - Capture and calibrate the reading with charge wave energy fuel efficient product
+
         **Environment:** Windows PowerShell, QTP 9.5, MS excel, Boiler Hardware equipment
 
 projects:
